@@ -1,7 +1,7 @@
 Laravel 11 Multi Auth Guard Using Breeze 
 -------------------------------------------------------
 
-Step 1 - Laravel 11 installation
+<li> Step 1 - Laravel 11 installation</li>
 Step 2 - laravel breeze package
 Step 3 - Model and migration for super admin and admin
 Step 4 - Setup the schema inside the migrations and fillable property in the models
